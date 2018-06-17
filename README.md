@@ -1,5 +1,5 @@
 # GeneralSocksProxy
-This item is rewriting based on the shadowsocks developed by clowwindy.  
+This item is rewriting based on the Shadowssocks developed by clowwindy (2.6.3 version source code).  
 And replaced some libs used on osx platform only.
 
 ### Install
